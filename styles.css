@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Roboto&display=swap');
+a.navbar-brand img{
+    width: 180px;
+}
+
+div.navbar-nav .nav-item {
+    font-weight: 500;
+    font-size: 18px;
+    
+}
+
+.navbar-collapse .navbar-nav .nav-item{
+    padding-right: 30px
+    ;
+}
+  
+#navbarNavAltMarkup button{
+    border-radius:35px ;
+    width: 105px;
+    padding: 10px;
+}
+
+div.top-header{
+    background-color: #f0fff0;
+}
+
+div.col-md-6 img.width{
+    width: 540px;
+}
+
+
+
+h1{
+    font-size: 60px;
+
+
+    font-weight: bold;
+}
+
+
+span.color{
+    color: #21b572;
+}
+
+
+.btn-success{
+    background-color:  #21b572 ;
+}
+div.row .col-md-6 button{
+    border-radius:35px ;
+}
+
+p{
+    margin: 10px 0px;
+    font-size: 20px;
+}
+div.container .row .col-md-3 div.cat1 img{
+           width:80px;
+}
+
+div.cat1{
+    padding: 30px 20px 30px 20px;
+    background-color: #f0fff0;
+    border-radius: 10px;
+    transition: 1s ease;
+}
+.row .cat1:hover{
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.row .col-md-3 div.cat1 img.styleimg{
+    margin: 0px 65px;
+}
+h3{
+    margin: 20px  20px 10px 20px;
+    text-align: center;
+}
+
+h4{
+    margin: 0px 20px;
+    text-align: center;
+    font-size: 18px;
+    color: gray;
+    font-family: times new sans-serif;
+}
+
+
+
+div.catstyle{
+    padding: 37px 0px;
+    
+}
+
+img.card-img{
+    width: 320px;
+    margin: 16px 0px 0px 18px;
+}
+
+h5.card-title{
+     font-family: 'Lobster Two', cursive;
+     font-size: 35px;
+}
+
+p.card-text{
+    margin-bottom: 20px;
+}
+ .card-body button{
+     border-radius: 35px;
+ }
+
+ small{
+     font-size: 18px;
+     color: gray;
+     
+ }
+
+ div.stm{
+     margin: 30px 20px 20px 0px;
+    
+ }
+ small.icon2{
+     float: right;
+ }
+
+ div.card{
+     border-radius: 18px;
+     box-shadow: 5px 5px 10px gray;
+ }
+
+ div.container{
+     padding: 43px 0px;
+ }
+
+
+ h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+ }
+ .Test-sec img:hover{
+    width: 110px;
+}
+.Test-sec p{
+    color: black;
+    padding-right: 40px;
+    line-height: 30px;
+    color: darkslategray
+}
+.Test-sec.row{
+    height: 200px;
+
+
+
+}
+ 
+ 
+.Test-sec h2{
+    font-weight: bold;
+    color: #413960;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+    
+    padding: 40px 40px 20px 40px;
+    font-size: 40px;
+}
+.Test-sec img{
+    width: 100px;
+    transition: all 0.5s ease;
+}
+
+.end-container {
+    height: 380px;
+    padding-top: 30px;
+    background-color: #282531;
+    padding: 30px 30px;
+    color: white;
+}
+.footer-section ul{
+    list-style: none;
+    line-height: 36px;
+}
+.footer-section ul li:first-child{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+.footer-section p{
+    font-size: 18px;
+    padding-top: 8px;
+}
+.footer-section ul li a{
+    text-decoration: none;
+    color: white;
+    transition: all 0.5s ease;
+}
+.footer-section ul li a:hover{
+    color: #75c4f1;
+    font-size: 19px;
+}
+.footer-section .copyr-style{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 75px;
+}
+
+
+
